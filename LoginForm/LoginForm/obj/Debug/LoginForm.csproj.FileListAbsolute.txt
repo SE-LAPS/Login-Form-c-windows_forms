@@ -1,0 +1,12 @@
+F:\YouTube\57th Upload\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+F:\YouTube\57th Upload\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+F:\YouTube\57th Upload\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+F:\YouTube\57th Upload\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+F:\YouTube\57th Upload\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.SuggestedBindingRedirects.cache
+F:\YouTube\57th Upload\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+F:\YouTube\57th Upload\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+F:\YouTube\57th Upload\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+F:\YouTube\57th Upload\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+F:\YouTube\57th Upload\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+F:\YouTube\57th Upload\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+F:\YouTube\57th Upload\LoginForm\LoginForm\obj\Debug\LoginForm.Form2.resources
